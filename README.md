@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ksenginew
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me - ksengine.github@gmail.com
