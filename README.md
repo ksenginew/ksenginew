@@ -15,7 +15,7 @@
 
 - :zap: Fun Fact
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Jokes Card](https://readme-jokes.vercel.app/api)](#nolink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
