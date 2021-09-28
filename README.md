@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kavindu Santhusa</h1>
 <h3 align="center">A Sri Lankan 17 years old student.</h3>
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ksengine" alt="ksenginew" /></a> </p>
+<p align="left"> <a href="#nolink"><img src="https://github-profile-trophy.vercel.app/?username=ksengine" alt="ksenginew" /></a> </p>
 
 - 👋 Hi, I’m @ksenginew
 
@@ -34,4 +34,4 @@
 <p><a href="https://www.buymeacoffee.com/ksengine"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ksengine" /></a></p><br><br>
 <br>
 
-<p>&nbsp;<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=ksenginew&show_icons=true&locale=en" alt="ksenginew" /></a></p>
+<p>&nbsp;<a href="#nolink"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ksenginew&show_icons=true&locale=en" alt="ksenginew" /></a></p>
