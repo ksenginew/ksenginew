@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kavindu Santhusa</h1>
 <h3 align="center">A Sri Lankan 17 years old student.</h3>
-<p align="left"> <a href="#nolink"><img src="https://github-profile-trophy.vercel.app/?username=ksengine&no-bg=true&column=4" alt="ksenginew" /></a> </p>
+<p align="left"> <a href="#nolink"><img src="https://github-profile-trophy.vercel.app/?username=ksengine&no-bg=true" alt="ksenginew" /></a> </p>
 
 - 👋 Hi, I’m @ksenginew
 
