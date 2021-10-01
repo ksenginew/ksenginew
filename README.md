@@ -11,8 +11,10 @@
 
 - 📫 How to reach me **ksengine.github@gmail.com**
 
-- :zap: Fun Fact
-  [![Jokes Card](https://readme-jokes.vercel.app/api)](#nolink)
+- ⚡ Fun Fact
+
+[![Jokes Card](https://readme-jokes.vercel.app/api)](#nolink)
+
 
 <table>
   <tr>
