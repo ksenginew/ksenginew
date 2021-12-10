@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning CSS and JavaScript + (Types)    
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact:
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
   
 
 <br/>  
@@ -25,9 +27,7 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=ksengine&bg="transparent)](https://medium.com/@omidnikrah)
 
 <br/>  
 
