@@ -27,18 +27,7 @@
 
 
 ## Recent Blog Posts  
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=ksengine&bg="transparent)](https://medium.com/@omidnikrah)
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/ksengine" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<a href="https://www.buymeacoffee.com/ksengine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"></a>
