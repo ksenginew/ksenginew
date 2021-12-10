@@ -1,68 +1,44 @@
-<h1 align="center">Hi 👋, I'm Kavindu Santhusa</h1>
-<h3 align="center">A Sri Lankan 17 years old student.</h3>
+![](https://github.com/ksenginew/ksenginew/raw/main/header.svg)
 
-- 👋 Hi, I’m @ksenginew
+### <div align="center"></div>  
+  
 
-- 👀 I’m interested in coding
+- 🔭 I’m currently working on @MoonHareLabs  
+  
 
-- 🌱 I’m currently learning **CSS, JavaScript, Typescript**
+- 🌱 I’m currently learning CSS and JavaScript + (Types)    
 
-- 💞️ I’m looking to collaborate on cool projects
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-- 📫 How to reach me **ksengine.github@gmail.com**
+<br/>  
 
-- ⚡ Fun Fact
+## Connect with me  
+  
+[Bio links](https://bio.link/ksengine)  
 
-[![Jokes Card](https://readme-jokes.vercel.app/api)](#nolink)
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ksenginew&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 
-<table>
-  <tr>
-    <th>
-      <h3 align="left">Connect with me:</h3>
-    </th>
-    <th>
-      <h3 align="left">Languages and Tools:</h3>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <p align="left">
-        <a href="https://codepen.io/ksengine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://dev.to/ksengine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://twitter.com/ksengine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/ksengine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://stackoverflow.com/users/ksengine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://codesandbox.com/ksengine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://kaggle.com/ksengine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://medium.com/@ksengine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ksengine" height="30" width="40" /></a>
-        <a href="https://www.codechef.com/users/ksengine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://www.hackerrank.com/ksengine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ksengine" height="30" width="40" /></a>
-        <a href="https://codeforces.com/profile/kse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kse" height="30" width="40" /></a>
-      </p>
-    </td>
-    <td>
-      <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-    </td>
-  </tr>
-</table>
-<table>
-  <td>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksengine&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=808080" alt="ksenginew" /></p>
-  </td>
-  <td>
-    <p align="left"> <a href="#nolink"><img src="https://github-profile-trophy.vercel.app/?username=ksengine&no-bg=true" alt="ksenginew" /></a> </p>
-  </td>
-</table>
-<table>
-  <td>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksengine&show_icons=true&locale=en&bg_color=00000000&text_color=808080" alt="ksenginew" /></p>
-  </td>
-  <td>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksengine&background=00000000&currStreakNum=gray&sideNums=gray&currStreakLabel=gray&sideLabels=gray&dates=gray" alt="ksenginew" /></p>
-  </td>
-</table>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ksengine"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ksengine" /></a></p>
-<br><br>
-<br>
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/ksengine" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
