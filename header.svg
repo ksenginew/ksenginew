@@ -10,7 +10,7 @@
     </text>
 
     <path id="path1">
-        <animate id="d1" attributeName="d" dur="10s" fill="freeze" begin="0s;d0.end" keyTimes="0 ; 0.3 ; 1" values="m0,138 h0 ; m0,138 h0 ; m0,138 h1600"/>
+        <animate id="d1" attributeName="d" dur="10s" fill="freeze" begin="0s;d0.end" keyTimes="0 ; 0 ; 1" values="m0,138 h0 ; m0,138 h0 ; m0,138 h1600"/>
     </path>
     <text font-family="&quot;monospace&quot;, monospace" fill="#400080" font-size="50" dominant-baseline="auto" x="0%" text-anchor="start">
         <textPath xlink:href="#path1">
