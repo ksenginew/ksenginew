@@ -1,4 +1,4 @@
-[![Hello World](https://github.com/ksenginew/ksenginew/raw/main/header.png)](#nolink)
+[![Hello World](https://github.com/ksenginew/ksenginew/raw/main/header.svg)](#nolink)
 
 ### <div align="center"></div>  
   
