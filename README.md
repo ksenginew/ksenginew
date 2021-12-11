@@ -1,4 +1,6 @@
-[![Hello World](https://github.com/ksenginew/ksenginew/raw/main/header.svg)](#nolink)
+<a href="#">
+  <img src="https://github.com/ksenginew/ksenginew/raw/main/header.svg" alt="Hello World!" width="75%" height="auto"/>
+</a>
 
 - 🔭 I’m currently working on @MoonHareLabs  
 
@@ -6,4 +8,6 @@
 
 - 💌 Connect with me 👉 [Bio links](https://ksengine.bio.link)
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/ksengine)
+<a href="https://www.buymeacoffee.com/ksengine">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="50%" height="auto"/>
+</a>
