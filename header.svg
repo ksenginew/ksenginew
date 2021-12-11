@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 300">
 <rect width="100%" height="100%" fill="#bf80ff"/>
 <text font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="100">
-<tspan x="50" dy="150">Hello</tspan>
-<tspan x="50" dy="150" font-size="150" fill="#400080">World!</tspan>
+<tspan x="50" dy="125">Hello</tspan>
+<tspan x="50" dy="125" font-size="150" fill="#400080">World!</tspan>
 </text>
 </svg>
