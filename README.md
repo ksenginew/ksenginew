@@ -1,6 +1,4 @@
-<a href="#">
-  <img src="https://github.com/ksenginew/ksenginew/raw/main/header.svg" alt="Hello World!" width="75%" height="auto"/>
-</a>
+[![Hello World!](https://github.com/ksenginew/ksenginew/raw/main/header.svg)](#nolink)
 
 - 🔭 I’m currently working on @MoonHareLabs  
 
