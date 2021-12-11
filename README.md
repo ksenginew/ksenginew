@@ -7,5 +7,5 @@
 - 💌 Connect with me 👉 [Bio links](https://ksengine.bio.link)
 
 <a href="https://www.buymeacoffee.com/ksengine">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="50%" height="auto"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150px" height="auto"/>
 </a>
