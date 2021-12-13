@@ -1,6 +1,6 @@
 let fs = require('fs');
 
-http.get('https://dev.to/api/articles?username=ksengine', (res) => {
+require('http').get('https://dev.to/api/articles?username=ksengine', (res) => {
   res.setEncoding('utf8');
   let rawData = '';
   res.on('data', (chunk) => {
