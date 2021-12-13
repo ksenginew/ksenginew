@@ -7,12 +7,15 @@ fetch('https://dev.to/api/articles?username=ksengine')
   .then((data) => {
     fs.writeFileSync(
       'README.md',
-      fs.readFileSync('README.md').replace(
-        /<!--\s*blog\s*posts\s*start\s*-->[^]*?<!--\s*blog\s*posts\s*end\s*-->/,
-        data
-          .slice(0, 3)
-          .map(
-            (post) => `
+      fs
+        .readFileSync('README.md')
+        .toString()
+        .replace(
+          /<!--\s*blog\s*posts\s*start\s*-->[^]*?<!--\s*blog\s*posts\s*end\s*-->/,
+          data
+            .slice(0, 3)
+            .map(
+              (post) => `
 <!-- blog  posts start -->
 <a href="${post.url}">
 <table>
@@ -35,8 +38,8 @@ ${post.description}
 </a>
 <!-- blog  posts end -->
 `
-          )
-          .join('\n\n')
-      )
+            )
+            .join('\n\n')
+        )
     );
   });
