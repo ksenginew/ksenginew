@@ -1,13 +1,17 @@
 let fs = require('fs');
 
-let xhttp = new XMLHttpRequest();
-xhttp.onreadystatechange = function () {
-  if (this.readyState == 4 && this.status == 200) {
+http.get('https://dev.to/api/articles?username=ksengine', (res) => {
+  res.setEncoding('utf8');
+  let rawData = '';
+  res.on('data', (chunk) => {
+    rawData += chunk;
+  });
+  res.on('end', () => {
     fs.writeFileSync(
       'README.md',
       fs.readFileSync('README.md').replace(
         /<!--\s*blog\s*posts\s*start\s*-->[^]*?<!--\s*blog\s*posts\s*end\s*-->/,
-        JSON.parse(this.responseText)
+        JSON.parse(rawData)
           .slice(0, 3)
           .map(
             (post) => `
@@ -37,7 +41,5 @@ ${post.description}
           .join('\n\n')
       )
     );
-  }
-};
-xhttp.open('GET', 'https://dev.to/api/articles?username=ksengine', true);
-xhttp.send();
+  });
+});
