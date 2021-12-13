@@ -12,11 +12,10 @@ fetch('https://dev.to/api/articles?username=ksengine')
         .toString()
         .replace(
           /<!--\s*blog\s*posts\s*start\s*-->[^]*?<!--\s*blog\s*posts\s*end\s*-->/,
-          data
+          '<!-- blog  posts start -->' + data
             .slice(0, 3)
             .map(
               (post) => `
-<!-- blog  posts start -->
 <a href="${post.url}">
 <table>
 <thead>
@@ -36,10 +35,9 @@ ${post.description}
 </tbody>
 </table>
 </a>
-<!-- blog  posts end -->
 `
             )
-            .join('\n\n')
+            .join('\n\n') + '<!-- blog  posts end -->'
         )
     );
   });
