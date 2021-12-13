@@ -1,17 +1,15 @@
 let fs = require('fs');
+const fetch = (...args) =>
+  import('node-fetch').then(({ default: fetch }) => fetch(...args));
 
-require('http').get('https://dev.to/api/articles?username=ksengine', (res) => {
-  res.setEncoding('utf8');
-  let rawData = '';
-  res.on('data', (chunk) => {
-    rawData += chunk;
-  });
-  res.on('end', () => {
+fetch('https://dev.to/api/articles?username=ksengine')
+  .then((response) => response.json())
+  .then((data) => {
     fs.writeFileSync(
       'README.md',
       fs.readFileSync('README.md').replace(
         /<!--\s*blog\s*posts\s*start\s*-->[^]*?<!--\s*blog\s*posts\s*end\s*-->/,
-        JSON.parse(rawData)
+        data
           .slice(0, 3)
           .map(
             (post) => `
@@ -42,4 +40,3 @@ ${post.description}
       )
     );
   });
-});
