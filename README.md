@@ -73,5 +73,5 @@ Most popular articles about CSS published on the dev.to in this week
 <!-- blog  posts end -->
 
 <a href="https://www.buymeacoffee.com/ksengine">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="300px" height="auto"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200px" height="auto"/>
 </a>
