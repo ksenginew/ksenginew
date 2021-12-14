@@ -2,7 +2,7 @@ name: Blog
 
 on:
   schedule:
-    - cron: '54 12,00 * * *'
+    - cron: '54 00 * * *'
   workflow_dispatch:
 
 jobs:
