@@ -7,20 +7,20 @@
 - 💌 Connect with me 👉 [Bio links](https://ksengine.bio.link)
 
 <!-- blog  posts start -->
-<a href="https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-5b6f">
+<a href="https://dev.to/ksengine/please-forget-the-colon-of-python-2b17">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--q4FdDyGO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzk3NDE2ODA%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--w85BxKam--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kt6soeuhxwgd5zb3j1k0.jpg" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>Top 10 trending github repos of the week💪.</h3>
-Most popular trending Github repos in this week(Fri Dec 17 2021).
+<h3>Please forget the colon of python</h3>
+Colon is an important character in Python. You should end some statements with colon.  Any modern IDE...
 </td>
 </tr>
 </tbody>
@@ -29,20 +29,20 @@ Most popular trending Github repos in this week(Fri Dec 17 2021).
 
 
 
-<a href="https://dev.to/ksengine/top-10-devto-articles-of-the-week-3ejk">
+<a href="https://dev.to/ksengine/yet-another-programming-language-unv-1mn0">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AMTs_bjn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1592609931095-54a2168ae893%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTYzOTM5NTQ2OQ%26ixlib%3Drb-1.2.1%26q%3D80%26utm_campaign%3Dapi-credit%26utm_medium%3Dreferral%26utm_source%3Dunsplash_source%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--q6ZYXKKB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D870%26q%3D80" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>Top 10 dev.to articles of the week🏁.</h3>
-Most popular articles published on the dev.to
+<h3>Yet another programming language Unv</h3>
+if 'Unv is awesome!'     print('Hello World!') # keep editing for live results        Enter...
 </td>
 </tr>
 </tbody>
@@ -51,20 +51,20 @@ Most popular articles published on the dev.to
 
 
 
-<a href="https://dev.to/ksengine/top-10-articles-of-the-week-for-beginners-ocn">
+<a href="https://dev.to/ksengine/how-can-you-create-a-scroll-to-top-button-with-just-html-1715">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--WrGksbbS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1470790376778-a9fbc86d70e2" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--lcU-2qua--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://cdn.dribbble.com/users/989157/screenshots/4970953/media/e5606e2c4e295de4905a3377e171d4f6.gif" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>Top 10 articles of the week for beginners🐩.</h3>
-Most popular articles for beginners published on Dev community (12/9/2021)
+<h3>How can you create a Scroll To Top button with just HTML?.</h3>
+Create fully accessible scroll-to-top button with just HTML. Plus smooth scrolling and floating action button with CSS. no JavaScript.
 </td>
 </tr>
 </tbody>
