@@ -7,20 +7,20 @@
 - 💌 Connect with me 👉 [Bio links](https://ksengine.bio.link)
 
 <!-- blog  posts start -->
-<a href="https://dev.to/ksengine/please-forget-the-colon-of-python-2b17">
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-426h">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--w85BxKam--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kt6soeuhxwgd5zb3j1k0.jpg" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UW60lCpA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1556075798-4825dfaaf498%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDA0MDEyMzY%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>Please forget the colon of python</h3>
-Colon is an important character in Python. You should end some statements with colon.  Any modern IDE...
+<h3>Top 10 trending github repos for JavaScript developers in this week☀.</h3>
+Most popular trending Github repos written in JavaScript in this week(Sat Dec 25 2021).
 </td>
 </tr>
 </tbody>
@@ -29,20 +29,20 @@ Colon is an important character in Python. You should end some statements with c
 
 
 
-<a href="https://dev.to/ksengine/yet-another-programming-language-unv-1mn0">
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-3078">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--q6ZYXKKB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D870%26q%3D80" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--88gO0uRV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1552346988-bf70b50d3c98%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDA0MDA3NzA%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>Yet another programming language Unv</h3>
-if 'Unv is awesome!'     print('Hello World!') # keep editing for live results        Enter...
+<h3>Top 10 trending github repos for Java developers in this week🏀.</h3>
+Most popular trending Github repos written in Java in this week(Sat Dec 25 2021).
 </td>
 </tr>
 </tbody>
@@ -51,20 +51,20 @@ if 'Unv is awesome!'     print('Hello World!') # keep editing for live results  
 
 
 
-<a href="https://dev.to/ksengine/how-can-you-create-a-scroll-to-top-button-with-just-html-1715">
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-3gck">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--lcU-2qua--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://cdn.dribbble.com/users/989157/screenshots/4970953/media/e5606e2c4e295de4905a3377e171d4f6.gif" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--x4pVTPDE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1566241440091-ec10de8db2e1%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDA0MDA3NjM%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>How can you create a Scroll To Top button with just HTML?.</h3>
-Create fully accessible scroll-to-top button with just HTML. Plus smooth scrolling and floating action button with CSS. no JavaScript.
+<h3>Top 10 trending github repos of the week🎶.</h3>
+Most popular trending Github repos in this week(Sat Dec 25 2021).
 </td>
 </tr>
 </tbody>
