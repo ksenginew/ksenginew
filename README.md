@@ -75,18 +75,3 @@ Many programming languages are using comments. But they are using different synt
 <a href="https://www.buymeacoffee.com/ksengine">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200px" height="auto"/>
 </a>
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=J9U7ZZGKXEZ8C" title="PayPal - The safer, easier way to pay online!">
-  <table>
-    <tr>
-      <td>
-        <img alt="Donate with PayPal button" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Paypal_Servise.jpg" width="100px" height="auto"/>
-      </td>
-    </tr>
-  </table>
-</a>
-
-<sup><sub>
-<a href="https://commons.wikimedia.org/wiki/File:Paypal_Servise.jpg">Kaung71</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
-</sub></sup>
-  
