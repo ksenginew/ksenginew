@@ -7,6 +7,28 @@
 - 💌 Connect with me 👉 [Bio links](https://ksengine.bio.link)
 
 <!-- blog  posts start -->
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-o0j">
+<table>
+<thead>
+<tr>
+<th>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mH_Zq0jh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1592755137605-f53768fd7931%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDM3MTUxNjI%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<h3>Top 10 trending github repos for CSS developers in this week😓.</h3>
+Most popular trending Github repos written in CSS in this week(Tue Feb 01 2022).
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+
+
+
 <a href="https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-id5">
 <table>
 <thead>
@@ -43,28 +65,6 @@ Most popular trending Github repos written in JavaScript in this week(Mon Jan 31
 <td>
 <h3>Top 10 trending github repos of the week😓.</h3>
 Most popular trending Github repos in this week(Fri Jan 28 2022).
-</td>
-</tr>
-</tbody>
-</table>
-</a>
-
-
-
-<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-13nj">
-<table>
-<thead>
-<tr>
-<th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--INsrvioq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1439242088854-0c76045f4124%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDMxMTA1OTQ%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<h3>Top 10 trending github repos for Java developers in this week🐷.</h3>
-Most popular trending Github repos written in Java in this week(Tue Jan 25 2022).
 </td>
 </tr>
 </tbody>
