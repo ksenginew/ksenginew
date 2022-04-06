@@ -7,20 +7,20 @@
 - 💌 Connect with me 👉 [Bio links](https://ksengine.bio.link)
 
 <!-- blog  posts start -->
-<a href="https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-347l">
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-522g">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9swjZj7Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1643138591291-f9142828adcd%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDg4MTMwNzc%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4bigrXJJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDkxNTg2ODQ%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>Top 10 trending github repos of the week🐵.</h3>
-Most popular trending Github repos in this week(Fri Apr 01 2022).
+<h3>Top 10 trending github repos for Java developers in this week🍸.</h3>
+Most popular trending Github repos written in Java in this week(Tue Apr 05 2022).
 </td>
 </tr>
 </tbody>
@@ -29,20 +29,20 @@ Most popular trending Github repos in this week(Fri Apr 01 2022).
 
 
 
-<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-aa8">
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-2h1n">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--8uQDdbzd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1442411210769-b95c4632195e%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDg1NTQzNzM%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5NrVjWbg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1518516278006-4aca92806257%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDkxNTg0NTM%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>Top 10 trending github repos for Java developers in this week💃.</h3>
-Most popular trending Github repos written in Java in this week(Tue Mar 29 2022).
+<h3>Top 10 trending github repos for CSS developers in this week⛵.</h3>
+Most popular trending Github repos written in CSS in this week(Tue Apr 05 2022).
 </td>
 </tr>
 </tbody>
@@ -51,20 +51,20 @@ Most popular trending Github repos written in Java in this week(Tue Mar 29 2022)
 
 
 
-<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-51a1">
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-365g">
 <table>
 <thead>
 <tr>
 <th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--j2LkBwVx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1577650858344-36f7a4c684e9%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDg1NTQyMjU%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G2lVN22B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1618401471353-b98afee0b2eb%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDkwNzIxODQ%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<h3>Top 10 trending github repos for CSS developers in this week🐶.</h3>
-Most popular trending Github repos written in CSS in this week(Tue Mar 29 2022).
+<h3>Top 10 trending github repos for JavaScript developers in this week🍉.</h3>
+Most popular trending Github repos written in JavaScript in this week(Mon Apr 04 2022).
 </td>
 </tr>
 </tbody>
