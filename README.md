@@ -7,6 +7,50 @@
 - 💌 Connect with me 👉 [Bio links](https://ksengine.bio.link)
 
 <!-- blog  posts start -->
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-3mjo">
+<table>
+<thead>
+<tr>
+<th>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9uLjCshl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1578583112957-2dcf6878aeae%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTY0MTYyMzA%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<h3>Top 10 trending github repos for Java developers in this week👌.</h3>
+Most popular trending Github repos written in Java in this week(Tue Jun 28 2022).
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+
+
+
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-1930">
+<table>
+<thead>
+<tr>
+<th>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LR9A6iiz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1479642758906-86ea61b235af%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTY0MTYwNDQ%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<h3>Top 10 trending github repos for CSS developers in this week👽.</h3>
+Most popular trending Github repos written in CSS in this week(Tue Jun 28 2022).
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+
+
+
 <a href="https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-1o9b">
 <table>
 <thead>
@@ -21,50 +65,6 @@
 <td>
 <h3>Top 10 trending github repos of the week⚽.</h3>
 Most popular trending Github repos in this week(Fri Jun 24 2022).
-</td>
-</tr>
-</tbody>
-</table>
-</a>
-
-
-
-<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-java-developers-in-this-week-bcc">
-<table>
-<thead>
-<tr>
-<th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SwI_Md32--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1500989145603-8e7ef71d639e%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTU4MTE5NzA%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<h3>Top 10 trending github repos for Java developers in this week👉.</h3>
-Most popular trending Github repos written in Java in this week(Tue Jun 21 2022).
-</td>
-</tr>
-</tbody>
-</table>
-</a>
-
-
-
-<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-21hp">
-<table>
-<thead>
-<tr>
-<th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--t99CHG0C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1559006321-0edcc6981d06%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTU4MTE3Mzk%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<h3>Top 10 trending github repos for CSS developers in this week🐟.</h3>
-Most popular trending Github repos written in CSS in this week(Tue Jun 21 2022).
 </td>
 </tr>
 </tbody>
