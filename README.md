@@ -7,6 +7,28 @@
 - 💌 Connect with me 👉 [Bio links](https://ksengine.bio.link)
 
 <!-- blog  posts start -->
+<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2oic">
+<table>
+<thead>
+<tr>
+<th>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DYsm_910--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1654095923893-6a255e5ed4d3%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQ3OTczMjU%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<h3>Top 10 trending github repos for JavaScript developers in this week🎀.</h3>
+Most popular trending Github repos written in JavaScript in this week(Mon Oct 03 2022).
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+
+
+
 <a href="https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-5d3d">
 <table>
 <thead>
@@ -43,28 +65,6 @@ Most popular trending Github repos in this week(Fri Sep 30 2022).
 <td>
 <h3>Top 10 trending github repos for Java developers in this week😱.</h3>
 Most popular trending Github repos written in Java in this week(Tue Sep 27 2022).
-</td>
-</tr>
-</tbody>
-</table>
-</a>
-
-
-
-<a href="https://dev.to/ksengine/top-10-trending-github-repos-for-css-developers-in-this-week-d16">
-<table>
-<thead>
-<tr>
-<th>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--44UXYVni--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1631127887321-0a2cf902a002%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwyODI4ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQyNzg4MjA%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080" alt="cover image of post" width="500px" height="auto"/>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<h3>Top 10 trending github repos for CSS developers in this week🍸.</h3>
-Most popular trending Github repos written in CSS in this week(Tue Sep 27 2022).
 </td>
 </tr>
 </tbody>
