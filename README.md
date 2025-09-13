@@ -32,7 +32,6 @@ Designed for scalability, data integrity, and real-world classroom use.
 🌐 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/kavindu-santhusa-9033852ab/))  
 🐦 [Twitter / X](https://twitter.com/ksanthusa)  
 📸 [Instagram](https://instagram.com/k_santhusa)  
-📬 Email: your-email@example.com  
 
 ---
 
